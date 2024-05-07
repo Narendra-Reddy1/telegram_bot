@@ -1,7 +1,7 @@
 {
-    "url": "https://github.com/ton-connect/demo-telegram-bot",
-    "name": "Austronaut Bot",
-    "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
+    "url": "https://github.com/Narendra-Reddy1/my_younger_brother_is_bot",
+    "name": "Austronaut The Bot",
+    "iconUrl": "https://raw.githubusercontent.com/Narendra-Reddy1/Tiger-Goat/development/Assets/_Game/Art/UI/Title/TG_lady_bug.png",
     "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
     "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
