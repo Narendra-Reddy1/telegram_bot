@@ -1,3 +1,4 @@
-# ERC20 Token Smart Contract
+## Telegram Bot
 
-This project demonstrates a basic ERC20 token smart contract. 
+
+This project demonstrates a telegram bot to play games.
